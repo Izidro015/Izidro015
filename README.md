@@ -10,7 +10,7 @@
 
 ###
 
-![C](https://img.shields.io/badge/C-de2d26?style=for-the-badge&logo=c) ![Haskell](https://img.shields.io/badge/Haskell-de2d26?style=for-the-badge&logo=haskell) ![Prolog](https://img.shields.io/badge/Prolog-de2d26?style=for-the-badge) ![R](https://img.shields.io/badge/R-de2d26?style=for-the-badge&logo=r)
+![C](https://img.shields.io/badge/C-de2d26?style=for-the-badge&logo=c) ![Haskell](https://img.shields.io/badge/Haskell-fee0d2?style=for-the-badge&logo=haskell) ![Prolog](https://img.shields.io/badge/Prolog-de2d26?style=for-the-badge) ![R](https://img.shields.io/badge/R-fee0d2?style=for-the-badge&logo=r)
 
 ###
 
