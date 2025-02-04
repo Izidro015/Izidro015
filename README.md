@@ -19,8 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izidro015&locale=en&hide_title=false&layout=compact&bg color=000&border_color=000&title_color=FFF&text_color=FFF"  />
-</div>
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?usernameIzidro015&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ###
 
