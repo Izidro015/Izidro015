@@ -10,13 +10,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-</div>
+![C](https://img.shields.io/badge/C-845EC2?style=for-the-badge&logo=c) ![Haskell](https://img.shields.io/badge/Haskell-FF6F91?style=for-the-badge&logo=haskell) ![Prolog](https://img.shields.io/badge/Prolog-FF9671?style=for-the-badge)
 
 ###
 
