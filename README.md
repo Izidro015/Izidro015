@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izidro015&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izidro015&locale=en&hide_title=false&layout=compact&bg color=000&border_color=000&title_color=FFF&text_color=FFF"  />
 </div>
 
 ###
