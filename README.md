@@ -18,8 +18,9 @@
 
 ###
 
-<div align="left">
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?usernameIzidro015&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Izidro015&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
